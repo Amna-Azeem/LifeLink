@@ -1,0 +1,23 @@
+{
+  "flutter": {
+    "platforms": {
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "lifelink-997ca",
+          "configurations": {
+            "ios": "1:736971431217:ios:9fa14741e149e65c23e410",
+            "macos": "1:736971431217:ios:9fa14741e149e65c23e410",
+            "web": "1:736971431217:web:30356a5434227de823e410",
+            "windows": "1:736971431217:web:4513cdae818340fd23e410"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "database": "(default)",
+    "location": "asia-south1",
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  }
+}
