@@ -24,7 +24,7 @@ class _EditProfileScreenState extends State<EditProfileScreen> {
 
   bool _isLoading = true;
 
-  final List<String> _roles = ['Donor', 'Receiver', 'Guest'];
+  final List<String> _roles = ['Donor', 'Recipient', 'Guest'];
 
   @override
   void initState() {
